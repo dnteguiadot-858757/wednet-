@@ -1,7 +1,7 @@
-# Cameroon Kitchen
+# Cameroon & Ghana Kitchen
 
-A small, responsive recipe website featuring five home-style Cameroonian dishes:
-ndolé, eru, koki, achu with yellow soup, and poulet DG.
+A small, responsive recipe website featuring home-style dishes from Cameroon and
+Ghana: ndolé, eru, koki, achu with yellow soup, poulet DG, jollof rice, and banku.
 
 ## Preview locally with Git Bash
 
@@ -22,4 +22,5 @@ folder, then save. GitHub Pages will serve `index.html` and `styles.css`.
 
 The recipes are practical home-style versions; ingredients and methods vary by
 region and family. Source links for culinary background and recipe notes are at
-the bottom of the site.
+the bottom of the site. Plain-text Ghanaian recipes are also available in
+`recipes/ghana/`.
